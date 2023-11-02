@@ -93,8 +93,8 @@ span{
   .skill-card {
     flex: 0 1 calc(30% - 20px);
     height: auto;
-    margin-bottom: 20px;
-    margin-left: 30px;
+    margin-bottom: 10px;
+    margin-left: 10px;
     background-color: #3d3e42;
     border-radius: 20px;
     display: flex;
